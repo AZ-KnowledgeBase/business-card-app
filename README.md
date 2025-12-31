@@ -1,6 +1,6 @@
 # buissness_card_app_project
 
-A new Flutter project.
+My first flutter project I've made, I used the most basic of basic concepts to make this. However its less of a project and more of a test to try out features within flutter. 
 
 ## Getting Started
 
